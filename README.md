@@ -1,5 +1,6 @@
 <h5>Olá, Bem vindo 👋<h5>
 <h3>Meu nome é Matheus Juan, sou Designer gráfico, Web designer e UI Designer.<h3>
+<h5>Atualmente Estudando JavaScript<h5>
 
 <div> 
   <a href="https://www.behance.net/matheusjuandzn" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
