@@ -1,5 +1,6 @@
-<h5>Olá, Bem vindo 👋<h5>
-<h3>Meu nome é Matheus Juan, sou Designer gráfico, Web designer e UI Designer.<h3>
+<h5>Olá seja bem-vindo ao meu Github<h5>
+
+<p>Meu nome é Matheus Juan, sou Designer gráfico, Web designer e UI Designer.<p>
 <h5>Atualmente Estudando JavaScript<h5>
 
 <div> 
