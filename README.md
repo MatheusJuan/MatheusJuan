@@ -1,6 +1,7 @@
 <h2>Olá seja bem-vindo ao meu Github</h2>
 
-<p>Meu nome é Matheus Juan, sou Designer gráfico, Web designer e UI Designer.</p>
+<p>Meu nome é Matheus Juan, 24 anos, Brasileiro do interior paulista.<br>
+  Sou Designer gráfico, Web designer e UI Designer.</p>
   
 <h5>Atualmente Estudando JavaScript</h5>
 
